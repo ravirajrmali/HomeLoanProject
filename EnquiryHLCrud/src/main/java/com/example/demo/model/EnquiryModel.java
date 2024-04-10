@@ -19,4 +19,7 @@ public class EnquiryModel {
 	private long pincode;
 	private String address;
 	private String typeOfLoan;
+	private int cs1;
+	private String csStatus;
+	
 }
